@@ -12,7 +12,7 @@ namespace HTTP5112sample.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "value1/n", "value2/n","value3/n" };    //changes the values to have multiple line output in HostingCostController output.
         }
 
         // GET api/values/5

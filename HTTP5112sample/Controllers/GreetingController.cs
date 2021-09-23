@@ -14,9 +14,9 @@ namespace HTTP5112sample.Controllers
             return "Greetings to " + id + " people!";
         }
 
-        public string Post()
-        {
-            return "Hello World";
-        }
+        //public string Post()
+        //{
+         //   return "Hello World";
+        //}
     }
 }
